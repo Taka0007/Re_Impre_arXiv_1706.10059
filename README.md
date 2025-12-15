@@ -5,7 +5,7 @@ https://arxiv.org/abs/1706.10059 の再現実装用のレポジトリ
 https://github.com/ZhengyaoJiang/PGPortfolio
 
 
-### フォルダ構成
+### フォルダ構成 (予定)
 ```
 Re_Impre_arXiv_1706.10059/
 ├── README.md
