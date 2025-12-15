@@ -14,5 +14,5 @@ setup(
         "tqdm",
         "scipy",
     ],
-    description="A PyTorch implementation of PGPortfolio (Policy Gradient portfolio)",
+    description="A PyTorch implementation of PGPortfolio (arXiv.1706.10059)",
 )
