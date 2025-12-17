@@ -1,6 +1,7 @@
 # pgportfolio/model/cnn.py
 from .base import BaseModel
 import torch.nn as nn
+import torch
 import torch.nn.functional as F
 
 class EIIECNN(BaseModel):
