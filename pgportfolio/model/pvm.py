@@ -1,6 +1,7 @@
 # pgportfolio/model/pvm.py
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 
 class PortfolioVectorMemory(nn.Module):
     def __init__(self, assets, memory_size):
